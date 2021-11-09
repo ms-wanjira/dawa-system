@@ -18,7 +18,7 @@ def sales():
 
 @app.route('/inventories')
 def inventories():
-    return render_template('inventories.html')
+    return render_template('inventories.html')                                                                                          
     
 
 
